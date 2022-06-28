@@ -1,4 +1,3 @@
-- Hi, I’m Egor a.k.a. @SALOway
-- I’m interested in C++, C# and game/program dev
-- I’m currently learning C++, C# and Python
-- I’m looking to collaborate with people who are enthusiastic about discussing the design of programs in plain language 
+Hi! I'm Egor
+I have basic knowledge of C# and a little bit of OOP
+I hope, that I can be helpful for someone and raise my skills 
